@@ -1,3 +1,5 @@
+<p align='center'><a href='https://www.packtpub.com/en-us/unlock?step=1'><img src='https://static.packt-cdn.com/assets/images/packt+events/finalGH_design_redeem.png'/></a></p>
+
 # Python for Algorithmic Trading Cookbook
 
 <a href="<https://www.packtpub.com/en-in/product/python-for-algorithmic-trading-cookbook-9781835084700"><img src="https://content.packt.com/_/image/xxlarge/B21323/cover_image_large.jpg" alt="Python for Algorithmic Trading Cookbook" height="256px" align="right"></a>
